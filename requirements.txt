@@ -1,0 +1,22 @@
+# Core LangChain packages
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-text-splitters>=0.0.1
+langchain-core>=0.1.0
+
+# OpenAI
+openai>=1.10.0
+
+# Vector Store - ChromaDB
+chromadb>=1.5.0
+
+# Web scraping for document loading
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Additional utilities
+numpy>=1.26.0
